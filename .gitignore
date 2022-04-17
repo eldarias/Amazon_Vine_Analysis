@@ -1,3 +1,6 @@
+# DO NOT UPLOAD THE FOLLOWING:
+Archive/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
